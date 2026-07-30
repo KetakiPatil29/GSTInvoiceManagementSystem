@@ -1,0 +1,98 @@
+/*.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}*/
+
+/* styles.css */
+.header {
+	display: flex;
+
+}
+
+h2 {
+	text-align: center;
+}
+
+p {
+	padding-left: 30px;
+}
+
+.c {
+	padding-left: 50px;
+}
+
+.c1 {
+	display: flex;
+}
+
+table {
+	width: 100%;
+	border-collapse: collapse;
+	margin-top: 20px;
+}
+
+th, td {
+	border: 1px solid #ccc;
+	padding: 10px;
+	text-align: center;
+}
+
+th {
+	background-color: #f4f4f4;
+	font-weight: bold;
+}
+
+select, input {
+	width: 100%;
+	padding: 6px;
+	box-sizing: border-box;
+	border: 1px solid #800080;
+	border-radius: 4px;
+}
+
+tr:hover {
+	background-color: #f9f9f9;
+}
+
+.custom-datepicker {
+  width: 200px; /* or any size you prefer */
+
+}
+
+.s{
+	width: 500px; 
+}
