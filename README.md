@@ -71,8 +71,8 @@ CREATE DATABASE gstinvoice;
 
 ```properties
 spring.datasource.url=jdbc:mysql://localhost:3306/gstinvoice
-spring.datasource.username=username
-spring.datasource.password=password
+spring.datasource.username=yourusername
+spring.datasource.password=yourpassword
 spring.jpa.hibernate.ddl-auto=update
 ```
 
